@@ -1,0 +1,6 @@
+1. Buat User Login & Register (Role Admin & Role User(ragister hanya user))
+2. Buat tabel user
+ - nama \
+ - email \ 
+ - image \
+ - poin nullable
